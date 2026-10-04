@@ -1,4 +1,4 @@
-# Lab1Web.
+<img width="1365" height="767" alt="Screenshot 2026-10-04 103648" src="https://github.com/user-attachments/assets/0a4d47f9-fa7c-4cb6-8128-c941d6c74ce8" /># Lab1Web.
 Tugas Post Test Praktikum 1
 # Laporan Praktikum Pemrograman Web - Dasar HTML
 
@@ -23,6 +23,9 @@ Web/
 ---
 
 ### 1. Membuat Halaman Utam / Beranda (`index.html`)
+<img width="1365" height="767" alt="Screenshot 2026-10-04 103648" src="https://github.com/user-attachments/assets/1a2fbe6e-585b-47a4-b195-aa3d468115bb" />
+
+<img width="1359" height="767" alt="Screenshot 2026-10-04 103703" src="https://github.com/user-attachments/assets/261ec498-ee13-4cc4-918d-98d5d1ce6de4" />
 
 Halaman `index.html` berfungsi sebagai halaman depan yang memuat navigasi utama, judul profil, dan gambar profil mahasiswa.
 
@@ -53,6 +56,11 @@ Halaman `index.html` berfungsi sebagai halaman depan yang memuat navigasi utama,
 ---
 
 ### 2. Membuat Halaman Detail Data Diri (`halaman2.html`)
+<img width="1359" height="767" alt="Screenshot 2026-10-04 103709" src="https://github.com/user-attachments/assets/6f8b29eb-8bf3-4e47-895e-4bcbf7334372" />
+<img width="692" height="171" alt="Screenshot 2026-10-04 103725" src="https://github.com/user-attachments/assets/47ba720a-c2ff-4b80-bdc6-5a44ae651176" />
+
+<img width="1361" height="767" alt="Screenshot 2026-10-04 103734" src="https://github.com/user-attachments/assets/0592f54a-95a1-46a2-bb8f-03e6da287115" />
+
 
 Halaman `halaman2.html` menyajikan informasi detail data diri, format teks khusus, daftar keahlian, dan target belajar.
 
